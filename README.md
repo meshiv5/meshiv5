@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @meshiv5
-- 👀 I’m interested in ...
+- 👋 Hi, I’m **Shivendra Upadhyay**
+- 👀 I’m interested in **Problem Solving**
 - 🌱 I’m currently learning **Full Stack Web Development**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on **Projects**
 - 📫 How to reach me **000done9@gmail.com**
 
 <!---
