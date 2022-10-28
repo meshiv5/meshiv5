@@ -10,7 +10,7 @@
 - 📫 How to reach me **000done9@gmail.com**
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Shivendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshiv5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 meshiv5/meshiv5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
