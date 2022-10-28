@@ -12,6 +12,13 @@
 
 [![Shivendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshiv5)](https://github.com/anuraghazra/github-readme-stats)
 
+&nbsp;
+
+## 📊 &nbsp;Stats
+
+![Shivendra's Github Stats](https://github-readme-stats.vercel.app/api?username=meshiv5&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![Shivendra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meshiv5&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 <!---
 meshiv5/meshiv5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
