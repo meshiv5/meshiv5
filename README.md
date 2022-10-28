@@ -10,8 +10,6 @@
 - 📫 How to reach me **000done9@gmail.com**
 
 
-[![Shivendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshiv5)](https://github.com/anuraghazra/github-readme-stats)
-
 &nbsp;
 
 ## 📊 &nbsp;Stats
