@@ -8,9 +8,9 @@
 ### <img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👀 I’m interested in **Open Source** 
 
-- 🌱 I’m A **Full Stack Web Developer (MERN Stack)**
+- 🌱 I’m A **Full Stack Web Developer (MERN Stack)** 
 
-- 💞️ I’m looking to collaborate on **Projects**
+- 💞️ I’m looking to collaborate on any **Projects** reagrding Web Development 
 
 - 📫 How to reach me **000done9@gmail.com**
 
